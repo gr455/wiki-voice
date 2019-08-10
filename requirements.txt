@@ -1,0 +1,5 @@
+The following python libraries are necessary:
+1) urllib
+2)BeautifulSoup(bs4)
+3)speech_recognition
+4)retry
